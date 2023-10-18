@@ -30,6 +30,6 @@ production:
   database: myapp_production
   username: 9d0m1p7qckikdrequg9o
   host: aws.connect.psdb.cloud
-  password: ************
+  password: pscale_pw_LhjgR3pRiipT6I1bjLTgpP2p18CjBdGjd53JJHLr0gz
   ssl_mode: verify_identity
   sslca: "/etc/ssl/certs/ca-certificates.crt"
